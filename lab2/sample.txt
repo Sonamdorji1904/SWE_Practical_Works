@@ -1,0 +1,13 @@
+Applications developers design computer applications, such as games, for consumers. 
+They may create custom software for a specific customer or commercial software to be 
+sold to the general public. Some applications developers create databases or programs 
+for use internally or online.
+
+Systems developers create operating systems, either for the public or for an organization. 
+These operating systems keep computers functioning and control most of the consumer electronics 
+in use today, including those in cell phones and cars. Often, systems developers also build 
+the interface that allows users to interact with the computer.
+
+Of course, applications and systems developer jobs are not the only two positions available 
+in the field of software engineering. Other common roles include mobile developers, applications 
+architects, quality assurance analysts, and database administrators.
